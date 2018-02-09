@@ -1,0 +1,10 @@
+
+In line number 190 of your output:
+The output should be:
+Quantity Needed: 5
+But your output is: 
+Quantity Needed: 5Expiry date: 2017/10/12
+                  ^
+------------------|
+Professor's character ASCII code: hex(d), dec(13)
+un-matched character ASCII code: hex(45), dec(69)
